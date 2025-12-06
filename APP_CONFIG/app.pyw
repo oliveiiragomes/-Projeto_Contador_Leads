@@ -160,11 +160,13 @@ def salvar_csv():
 
 # Criando a janela principal
 janela = tk.Tk()
-janela.title("Titulo da página")
+janela.title("Título da Página")
 janela.config(bg="DarkBlue")
 janela.geometry("500x700")
 
-#Importando imagem da logo
+
+
+#Importando imagem da logo da CMO VENDAS
 imagem = tk.PhotoImage(file="APP_CONFIG/images_lead_control.png")
 
 #Aqui estou exibindo a imagem na tela
@@ -248,6 +250,5 @@ salvar_csv()
 
 if os.name == 'nt':  # Para Windows
     os.startfile(dados_leads)
-
 
 
