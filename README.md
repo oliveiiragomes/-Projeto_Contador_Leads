@@ -51,4 +51,4 @@ Este é um aplicativo desktop simples desenvolvido em Python com Tkinter para co
 * **Bibliotecas ->**`csv`, `tkinter`, `os` (bibliotecas nativas).
 * **CSV File ->** Salvo em `dados.csv` em  `APP_CONFIG/`.
 
-* <img width="765" height="194" alt="image" src="https://github.com/user-attachments/assets/390a32b6-4df4-448b-9dd1-ab8e7932fd5e" />
+ <img width="765" height="194" alt="image" src="https://github.com/user-attachments/assets/390a32b6-4df4-448b-9dd1-ab8e7932fd5e" />
